@@ -1,4 +1,4 @@
-"WX"
+"""WX"""
 """A highly "scientific" computer speed test."""
 
 import time
